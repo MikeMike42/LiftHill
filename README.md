@@ -2,7 +2,7 @@
 
 A roller coaster guessing game. A mystery coaster is waiting at the top of the lift hill — you have six guesses to name it, and every wrong guess tells you how the answer compares on country, manufacturer, seating, inversions, height, length and speed.
 
-**Play it:** https://YOUR-USERNAME.github.io/YOUR-REPO/
+**Play it:** https://mikemike42.github.io/LiftHill/
 
 ## How to play
 
